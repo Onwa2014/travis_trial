@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Onwa2014/travis_trial/issues"
   },
-  "homepage": "https://github.com/Onwa2014/travis_trial#readme"
+  "homepage": "https://github.com/Onwa2014/travis_trial#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
 }
